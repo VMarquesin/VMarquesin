@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marquesin 👌
+## Bem-vindo(a) ao perfil do Marquesin
 
  <div>
    <a href="https://github.com/VMarquesin">
