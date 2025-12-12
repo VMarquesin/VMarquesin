@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=2E91E3&center=true&vCenter=true&width=520&lines=Olá,+eu+sou+o+Marquesin!;Desenvolvedor+Backend+em+formação;Estudante+de+Sistemas+Inteligentes;Apaixonado+por+Tecnologia+e+Inovação" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=2E91E3&center=true&vCenter=true&width=520&lines=Olá,+eu+sou+o+Marquesin!;Desenvolvedor+Full-Stack+em+formação;Estudante+de+Sistemas+Inteligentes;Apaixonado+por+Tecnologia+e+Inovação" 
     alt="Typing Animation"
 />
 </div>
